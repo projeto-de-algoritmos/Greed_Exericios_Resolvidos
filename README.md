@@ -10,9 +10,9 @@
 
 ## Sobre 
 Os exercicios resolvidos neste projeto foram escolhidos pensando em abranger todo o conteúdo ensinado nas aulas de Grafos 2. Os conteúdos abordados foram:
-- Interval Scheduling
-- Interval Partitioning
-- Huffman Codes
+* Interval Scheduling
+* Interval Partitioning
+* Huffman Codes
 
 
 ## Screenshots
