@@ -16,7 +16,9 @@ Os exercicios resolvidos neste projeto foram escolhidos pensando em abranger tod
 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Alt text](assets/image.png)
+![Alt text](assets/image2.png)
+![Alt text](assets/image3.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
